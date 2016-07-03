@@ -1,0 +1,30 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "Test app",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krzych93/TestApp.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krzych93/TestApp/issues"
+  },
+  "homepage": "https://github.com/Krzych93/TestApp#readme"
+}

@@ -1,0 +1,9 @@
+# Ignore everything in this directory
+# Except this file
+.gitignore
+.*.sublime-project
+.*.sublime-workspace
+TODO.txt
+
+node_modules
+bower_components

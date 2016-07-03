@@ -1,0 +1,762 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"dummy	HTML - Dummy text"
+			],
+			[
+				"a",
+				"a	HTML - Anchor"
+			],
+			[
+				"WinM",
+				"WinMove"
+			],
+			[
+				"text-",
+				"text-align: 〔property〕"
+			],
+			[
+				"firs",
+				"firstYear"
+			],
+			[
+				"rand",
+				"randomIndex〔variable〕"
+			],
+			[
+				"alg",
+				"algRunner〔variable〕"
+			],
+			[
+				"get",
+				"getRandSubset"
+			],
+			[
+				"proc",
+				"process"
+			],
+			[
+				"WriteF",
+				"fs.writeFile(path, data, options, callback_);"
+			],
+			[
+				"div",
+				"divEscapedContentElement〔function〕"
+			],
+			[
+				"pre",
+				"previousName〔variable〕"
+			],
+			[
+				"name",
+				"name〔variable〕"
+			],
+			[
+				"nam",
+				"namesUsed〔argument〕"
+			],
+			[
+				"nicknames",
+				"nickNames〔argument〕"
+			],
+			[
+				"names",
+				"namesUsed〔variable〕"
+			],
+			[
+				"nick",
+				"nickNames〔variable〕"
+			],
+			[
+				"us",
+				"usersInRoomSummary"
+			],
+			[
+				"user",
+				"usersInRoomSummary〔variable〕"
+			],
+			[
+				"gu",
+				"guestNumber"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"serve",
+				"serveStatic〔function〕"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"fi",
+				"filePath"
+			],
+			[
+				"createSer",
+				"http.createServer(requestListener);"
+			],
+			[
+				"fileCon",
+				"fileContents"
+			],
+			[
+				"createStream",
+				"fs.createReadStream(path, options);"
+			],
+			[
+				"req",
+				"require〔function〕"
+			],
+			[
+				"V",
+				"Virgin"
+			],
+			[
+				"butt",
+				"buttonsWrapperHeader"
+			],
+			[
+				"ma",
+				"mainHeader"
+			],
+			[
+				"crea",
+				"createTargetButton〔function〕"
+			],
+			[
+				"tr",
+				"trTdFirst"
+			],
+			[
+				"thead",
+				"theadTr"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"amb",
+				"ambigramyArr〔variable〕"
+			],
+			[
+				"exp",
+				"exports〔variable〕"
+			],
+			[
+				"res",
+				"response〔argument〕"
+			],
+			[
+				"arr",
+				"arr1D〔variable〕"
+			],
+			[
+				"gr",
+				"groupedWirds"
+			],
+			[
+				"tim",
+				"timSort〔variable〕"
+			],
+			[
+				"sort",
+				"sortedWord〔variable〕"
+			],
+			[
+				"ambigra",
+				"ambigramyArr〔variable〕"
+			],
+			[
+				"syg",
+				"sygnatura"
+			],
+			[
+				"write",
+				"fs.writeFileSync(path, data, options);"
+			],
+			[
+				"da",
+				"dataArr"
+			],
+			[
+				"process",
+				"process.cwd();"
+			],
+			[
+				"load",
+				"os.loadavg();"
+			],
+			[
+				"endi",
+				"os.endianness();"
+			],
+			[
+				"nextTi",
+				"process.nextTick(callback);"
+			],
+			[
+				"f",
+				"for	for (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"exist",
+				"exist"
+			],
+			[
+				"Asyn",
+				"Asynchronous"
+			],
+			[
+				"te",
+				"text_part"
+			],
+			[
+				"pr",
+				"printArray"
+			],
+			[
+				"s",
+				"slownik"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"conc",
+				"concatedBuffer"
+			],
+			[
+				"buff",
+				"bufferToConcate"
+			],
+			[
+				"buf",
+				"bufJSON"
+			],
+			[
+				"E",
+				"EventEmitter"
+			],
+			[
+				"event",
+				"event_name〔variable〕"
+			],
+			[
+				"test_",
+				"test_event_ended"
+			],
+			[
+				"test",
+				"testCallbackEvent"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"clear",
+				"clearInterval〔function〕"
+			],
+			[
+				"ch",
+				"changeMoviesCountOnMagazine"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"M",
+				"Moderator"
+			],
+			[
+				"show",
+				"showCountOfMoviesInMagazine"
+			],
+			[
+				"oci_bind",
+				"oci_bind_by_name〔function〕"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "task",
+		"selected_items":
+		[
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: comment_block_short"
+			],
+			[
+				"autohot",
+				"AutoHotkey - Run"
+			],
+			[
+				"auto",
+				"AutoHotkey - Run"
+			],
+			[
+				"",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"random",
+				"Random:First Name"
+			],
+			[
+				"node",
+				"Random:E-mail"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty ",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Validate"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"random:",
+				"Random:IPv4 Address"
+			],
+			[
+				"js",
+				"JSHint"
+			],
+			[
+				"autop",
+				"Autoprefix CSS"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"js gutter",
+			"install",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Krzych93/Desktop/Programowanie/JavaScript/Node/Projekty/TestApp"
+	],
+	"file_history":
+	[
+		"/C/Users/Krzych93/Desktop/Programowanie/JavaScript/Node/Projekty/TestApp/bower.json",
+		"/C/Users/Krzych93/Desktop/Programowanie/JavaScript/Node/Projekty/TestApp/.gitignore",
+		"/C/Users/Krzych93/Desktop/Programowanie/JavaScript/Node/Projekty/TestApp/docs/faq.md",
+		"/C/Users/Krzych93/Desktop/surykatka_min.jpg",
+		"/C/Users/Krzych93/AppData/Roaming/Sublime Text 3/Packages/Tag/Tag Package.sublime-settings",
+		"/C/Users/Krzych93/Desktop/js_libs.txt",
+		"/C/Users/Krzych93/Desktop/Praca/Pliki tekstowe/_produkty_baza.txt",
+		"/C/Users/Krzych93/AppData/Roaming/Sublime Text 3/Packages/User/my_sublime_snippets/comment_block_wide.sublime-snippet",
+		"/C/Users/Krzych93/AppData/Roaming/Sublime Text 3/Packages/User/my_sublime_snippets/comment_block_short.sublime-snippet",
+		"/C/Users/Krzych93/Desktop/autohotkey_screen_dimensions.txt",
+		"/C/Users/Krzych93/Desktop/snippet.txt",
+		"/C/Users/Krzych93/Downloads/parameters",
+		"/C/Users/Krzych93/Desktop/regaeds.ahk",
+		"/C/Users/Krzych93/Desktop/test.ahk",
+		"/C/Users/Krzych93/Desktop/praca.bat",
+		"/C/Users/Krzych93/Desktop/Nowy dokument tekstowy.txt",
+		"/C/Users/Krzych93/Desktop/praca.txt",
+		"/C/Users/Krzych93/Desktop/pomiary.txt",
+		"/C/wamp/www/wzorce_projektowe/podciag_strategia/script.js",
+		"/C/Users/Krzych93/AppData/Local/Temp/Temp1_RawTherapee_OSX_10.11_64_4.2-876_master.zip/AboutThisBuild.txt",
+		"/C/Users/Krzych93/Desktop/Programowanie/JavaScript/MongoDB course/week_1_introduction.861c0e685d8f/hw1-3_568d3a05d8ca390830d6eb70/hw1-3/node_modules/mongodb/node_modules/mongodb-core/node_modules/bson/lib/bson/parser/calculate_size.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/podciagi/alg1.js",
+		"/C/wamp/www/wzorce_projektowe/podciag_strategia/index.html",
+		"/C/Users/Krzych93/Desktop/js biblioteki i linki.txt",
+		"/C/Users/Krzych93/Downloads/hw4-1_56a81c8fd8ca393adc3abed1.23637e6455ba/hw4-1/facebook.json",
+		"/C/Users/Krzych93/Desktop/pomiary stanowisko analiza sygnału stochastycznego.txt",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Przetwarzanie multimediów/Laboratorium/Zestaw6/Zadanie_twitter.R",
+		"/C/Users/Krzych93/Downloads/pomiar.txt",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Przetwarzanie multimediów/Laboratorium/Zestaw5/huffman_alg.r",
+		"/C/Users/Krzych93/Downloads/buildingQueryDocuments_569ef31dd8ca393add3abeba.f9af3f6b35c0/buildingQueryDocuments/buildingQueryDocuments.js",
+		"/C/Users/Krzych93/Downloads/buildingQueryDocuments_569ef31dd8ca393add3abeba.f9af3f6b35c0/buildingQueryDocuments/overviewOrTags.js",
+		"/C/Users/Krzych93/Desktop/images_to_compare/descriptors_all/des_nature_image (12).jpg.csv",
+		"/C/Users/Krzych93/Desktop/images_to_compare/descriptors/des_nature_image (50).jpg.csv",
+		"/C/Users/Krzych93/Downloads/buildingQueryDocuments_569ef31dd8ca393add3abeba.f9af3f6b35c0/buildingQueryDocuments/companies.json",
+		"/C/Users/Krzych93/Desktop/images_to_compare/Euklides.csv",
+		"/C/Users/Krzych93/Desktop/images_to_compare/descriptors/des_nature_image (12).jpg.csv",
+		"/C/Users/Krzych93/Desktop/images_to_compare/descriptors.csv",
+		"/C/Users/Krzych93/Desktop/Programowanie/JavaScript/MongoDB course/week_2_crud.ba9d18649c2a/reading_documents_56959fced8ca393add3abe6f/reading_documents/toyStory3.js",
+		"/C/Users/Krzych93/Desktop/images_to_compare/descriptors/des_nature_image (1).jpg.csv",
+		"/C/Users/Krzych93/Desktop/Programowanie/JavaScript/MongoDB course/week_2_crud.ba9d18649c2a/reading_documents_56959fced8ca393add3abe6f/reading_documents/toyStory3-awardsDocs.js",
+		"/C/Users/Krzych93/Desktop/Programowanie/JavaScript/MongoDB course/week_2_crud.ba9d18649c2a/reading_documents_56959fced8ca393add3abe6f/reading_documents/toyStore3.json",
+		"/C/Users/Krzych93/Desktop/images_to_compare/Euklides_old.csv",
+		"/C/Users/Krzych93/Desktop/images_to_compare/Euklides_2.csv",
+		"/C/Users/Krzych93/Desktop/Programowanie/JavaScript/MongoDB course/week_1_introduction.861c0e685d8f/hw1-1_568d3a05d8ca390830d6eb6a/hw1-1/dump/m101/hw1_1.metadata.json",
+		"/C/Users/Krzych93/Documents/Observer.php",
+		"/C/Users/Krzych93/Documents/Invoice.php",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Metody numeryczne II/Laboratorium/Programy/lab_8.cpp",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Metody numeryczne II/Laboratorium/Programy/lab_7.cpp",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Metody numeryczne II/Laboratorium/Programy/Lab 6 - Finite Differece Method.cpp",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Metody numeryczne II/Laboratorium/Programy/lab_6.cpp",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Metody numeryczne II/Laboratorium/Programy/lab_5.cpp",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Metody numeryczne II/Laboratorium/Programy/lab_4.cpp",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Metody numeryczne II/Laboratorium/Programy/lab_3.cpp",
+		"/C/Users/Krzych93/Desktop/Semestr 8/Metody numeryczne II/Laboratorium/Programy/lab_1_2.cpp",
+		"/C/Users/Krzych93/Documents/Visual Studio 2015/Projects/Iterative_methods_LE/Iterative_methods_LE/Iterative_methods_LE.cpp",
+		"/C/Users/Krzych93/Documents/Visual Studio 2015/Projects/FiniteDFMethodHO/FiniteDFMethodHO/FiniteDFMethodHO.cpp",
+		"/C/Users/Krzych93/Documents/Visual Studio 2015/Projects/FiniteDiffereceMethod/FiniteDiffereceMethod/FiniteDiffereceMethod.cpp",
+		"/C/Users/Krzych93/Documents/Visual Studio 2015/Projects/Runge_Kutta_2D_lab5/Runge_Kutta_2D_lab5/Runge_Kutta_2D_lab5.cpp",
+		"/C/Users/Krzych93/Documents/Visual Studio 2015/Projects/Runge_Kutta_Fehlberg/Runge_Kutta_Fehlberg/Runge_Kutta_Fehlberg.cpp",
+		"/C/Users/Krzych93/Documents/Visual Studio 2015/Projects/SecoundOrderDefferentialEqurtionsRK/SecoundOrderDefferentialEqurtionsRK/SecoundOrderDefferentialEqurtionsRK.cpp",
+		"/C/Users/Krzych93/Documents/Visual Studio 2015/Projects/euler/euler/euler.cpp",
+		"/C/Users/Krzych93/Desktop/lab_4.cpp",
+		"/C/Users/Krzych93/Desktop/localhost.html",
+		"/C/Users/Krzych93/Desktop/test.js",
+		"/C/Users/Krzych93/Desktop/test2.cpp",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/slownik_zredukowany.txt",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/cut_n_words_from_file_by_first_letter.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/ambigrams_parts_functional.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/serwer.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/ambigrams_result_all.txt",
+		"/C/Users/Krzych93/AppData/Local/Temp/OneNote/15.0/NT/1/test.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/duration_ambigramy.txt",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/slownik.txt",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/slownik_less.txt",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/slownik_all.txt",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/slownik1.txt",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/ambigrams_result.txt",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/ambigrams_result2.txt",
+		"/C/Users/Krzych93/Desktop/node_test_folder/Gruntfile.js",
+		"/C/wamp/www/wzorce_projektowe/pamiaka/js/script.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/wzorce_radek/observ.js",
+		"/E/studia/semestr 6/Algorytmy rozproszone II/Zadanie 6/Zadanie6v2.cpp",
+		"/E/studia/semestr 6/Algorytmy rozproszone II/Zadanie 6/Zadanie6.cpp",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/chat/public/index.html",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/chat/public/css/style.css",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/chat/public/js/chat_ui.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/chat/public/js/chat.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/chat/lib/chat_server.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/chat/serwer.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/chat/package.json",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/ex_1.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Process/master.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Process/support.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Express_test/index.html",
+		"/C/wamp/www/wzorce_projektowe/zad_extra/js/script.js",
+		"/C/wamp/www/wzorce_projektowe/zad_extra/index.html",
+		"/C/wamp/www/wzorce_projektowe/proxy/js/script.js",
+		"/C/wamp/www/wzorce_projektowe/lancuch_zadan/js/magazine.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/test_json.json",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Express_test/script.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Express_test/index.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Exercises_from_book/chat/node_modules/socket.io/index.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/index_test.html",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/net_server.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/create_server.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/web_server.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/Ambigrams/ambigramy.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/web_client.js",
+		"/C/Users/Krzych93/Desktop/ambigramy.html",
+		"/C/Users/Krzych93/Desktop/Zadanie 5/Zadanie5.cpp",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/ambigramy.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/ambigrams_parts_functional.js",
+		"/E/studia/semestr 6/Algorytmy rozproszone II/Zadanie 5/Zadanie5.cpp",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/module_net.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/net_client.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/module_domain.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/module_dns.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/globals.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/stream_read.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/ambi_sort_test.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/ambigramy_parts.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/module_os.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/module_path.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/files_create.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/files_open.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/files_read.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/stream_piping.js",
+		"/C/Users/Krzych93/Desktop/node_test_folder/simple_scripts_tests/events_emitter.js"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"li",
+			"href",
+			"link5",
+			"href",
+			"Napój mleczny o najwyższych właściwościach odżywczych. Włączenie kefiru do codziennego menu jest prostym i skutecznym sposobem na dostarczenie organizmowi probiotyków. Szczególnie polecany przy kuracjach antybiotykowych. Ten wyjątkowy napój mleczny posiada unikatowy aromat, odpowiednią gęstość i delikatny smak, świetnie gasi pragnienie i orzeźwia.",
+			"Loop",
+			"<button style=\"background: #00ca08; font-family: 'Capriola', sans-serif; width: 140px; color: #fff !important; cursor: pointer; font-size: 0.9em; letter-spacing: 0.06em; margin: auto; display: block; padding-top: 4px; font-weight: 500; border: none; height: 35px;\">Kup teraz</button>",
+			"^.*$",
+			"twitter_username",
+			"founded_year",
+			"stoneable|founded_year",
+			"stoneable|founded_name",
+			"[\"stoneable\"]",
+			"[stoneable]",
+			"stoneable",
+			"stoneable,founded_name",
+			"{stoneable,founded_name}",
+			"{stoneable, founded_name}",
+			"{stoneable founded_name}",
+			"[stoneable founded_name]",
+			"[stoneable, founded_name].",
+			"[stoneable, founded_name]",
+			"stoneable  founded_name",
+			"stoneable || founded_name",
+			"stoneable OR founded_name",
+			"stoneable",
+			"stoneable_type",
+			"<button style=\"background: #00ca08; font-family: 'Capriola', sans-serif; width: 140px; color: #fff !important; cursor: pointer; font-size: 0.9em; letter-spacing: 0.06em; margin: auto; display: block; padding-top: 4px; font-weight: 500; border: none; height: 35px;\">Kup teraz</button>",
+			"^(.*)$",
+			"https://github.com/tholman/90s-cursor-effects",
+			"^(.*)$",
+			"^\\s*(.*)$",
+			"^(.*)$",
+			"^(1)$",
+			"http.*",
+			"http",
+			"żołądek",
+			"char",
+			"\"testApp",
+			"\"testApp\"",
+			"show",
+			"hide_el",
+			"free",
+			"google",
+			"cover",
+			"roy_sort",
+			"roy_filters",
+			"roy_fil",
+			"roy-f",
+			"roy-fil",
+			"logo_w",
+			"sec",
+			"col-md",
+			"<div class=\"deliverer_logo_wrapper col-md-2\">",
+			"media",
+			"roy_active_promotion",
+			"NewCont",
+			"config",
+			"function config",
+			"config"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<button style=\"background: #00ca08; font-family: 'Capriola', sans-serif; width: 140px; color: #fff !important; cursor: pointer; font-size: 0.9em; letter-spacing: 0.06em; margin: auto; display: block; padding-top: 4px; font-weight: 500; border: none; height: 49px;\">Dodaj do koszyka</button>",
+			"<tr>\n    <td>Nr</td>\n    <td><a href=\"$1\">LINK</a></td>\n    <td>Description</td>\n</tr>",
+			"<tr>\n    <td><a href=\"$1\">LINK</a></td>\n    <td>Title</td>\n    <td>Description</td>\n</tr>",
+			"<tr>\n            <td><a href=\"$1\">LINK</a></td>\n            <td>Title</td>\n            <td>Description</td></tr>",
+			"<tr>\n            <td><a href=\"$1\">LINK</a></td>\n            <td>Title</td>\n            <td>Description</td>",
+			"col-xs",
+			"<div class=\"deliverer_logo_wrapper col-xs-2\">"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 30.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime_project.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 179.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

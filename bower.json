@@ -1,0 +1,15 @@
+{
+  "name": "TestApp",
+  "homepage": "https://github.com/Krzych93/TestApp",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
